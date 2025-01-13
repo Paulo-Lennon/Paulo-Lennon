@@ -6,6 +6,12 @@ I am studyng Software Engineering and I already worked as a Software Tester.
 I love Tecnology and how we can improve people's life with it.  
 There are too much out there to be learned so jump in and let's ride. 
 
+🔭 I’m currently working on 
+*  improve my test skills
+
+🌱 I’m currently learning
+* Front End in my collage.
+
 <!--
 **Paulo-Lennon/Paulo-Lennon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
