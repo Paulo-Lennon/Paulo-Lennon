@@ -1,4 +1,4 @@
-## Hi I'm Paulo 👋
+## Hello world, I'm Paulo 👋
 ![image](https://github.com/user-attachments/assets/259b9337-12f3-4b5b-9688-2915836b6945)
 
 Welcome to my profile, I am glad you are here. 
